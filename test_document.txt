@@ -1,0 +1,15 @@
+This is a test document for the AI Document Assistant.
+
+It contains some sample text that can be used for testing various AI operations like:
+- Summarization
+- Information extraction
+- Analysis
+- Translation
+
+The document is classified as INTERNAL and should be accessible to all users with proper authorization.
+
+Some key points about the Four-Perimeter Framework:
+1. Prompt Filtering - Ensures prompts are appropriate and authorized
+2. RAG Data Protection - Controls access to document data
+3. External Access Control - Manages API access for certain operations
+4. Response Enforcement - Filters and controls AI-generated output 
