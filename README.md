@@ -157,9 +157,6 @@ Expected behavior:
 - **"External Access Denied"**: Operations that require external API access (like analyze/translate) are blocked by design, even for admins
 - **OpenAI API Issues**: If you don't have valid OpenAI credentials, the system will use mock responses
 
-## License
-
-MIT
 
 ## Acknowledgments
 
